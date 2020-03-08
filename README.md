@@ -1,5 +1,5 @@
 # mini_projects
-While learning to code, I tried using new skills to automate little tasks I otherwise would have done manually. I keep track of these here.
+While learning to code, I am trying to use the new skills to automate little tasks I otherwise would have done manually. I keep track of these here.
 
 2020 Feb. download_step.py. I wanted to download all the STEP past papers and LaTeX files from stepdatabase.maths.org. I created a little python script to do this for me. Previously, I would have manually changed the web address and clicked save as.  Programming is neat!
 
