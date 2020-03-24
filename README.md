@@ -1,2 +1,6 @@
 # mini_projects
-While learning to code, I tried using new skills to automate little tasks I otherwise would have done manually. I keep track of these here.
+While learning to code, I am trying to use the new skills to automate little tasks I otherwise would have done manually. I keep track of these here.
+
+2020 Feb. download_step.py. I wanted to download all the STEP past papers and LaTeX files from stepdatabase.maths.org. I created a little python script to do this for me. Previously, I would have manually changed the web address and clicked save as.  Programming is neat!
+
+2020 Mar. mnemosyne.sql.  I recently started using Mnemosyne to help memorise things, e.g. syntax for Git, Python, terminal, C,... . Another thing I am memorising is the names of countries and their locations on a map.  I downloaded pre-made cards from https://mnemosyne-proj.org/cards/countries-africa but the cards were badly designed: the answer was on both sides of the flashcard!  I wrote the SQL script mnemosyne.sql to modify the cards table in the database file. I thought I succeeded in my task, but it appears that the information for cards is stored somewhere else, not only in the cards table. I tried having a look at the mnemosyne github page to see if I could work out how the program works, but my programming skill/knowledge is not yet good enough to untangle a project of that size.  One day I shall return to this!
