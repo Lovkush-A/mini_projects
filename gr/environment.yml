@@ -1,0 +1,15 @@
+name: gr 
+channels:
+    - defaults
+dependencies:
+    - pip
+    - python
+    - pip:
+        - black
+        - ipywidgets
+        - matplotlib
+        - notebook
+        - numpy
+        - pandas
+        - seaborn
+        - tqdm
